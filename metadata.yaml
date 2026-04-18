@@ -1,0 +1,5 @@
+homepage: 'https://zingstack.com'
+documentation: 'https://github.com/Zingstack/gtm-umami-track-event'
+versions:
+    - sha: 2e4d95f6b3a57435336a5a2cbc06c8075d2fe03a
+      changeNotes: Initial release.
